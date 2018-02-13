@@ -1,5 +1,8 @@
 {
   "notifications": [
+      "First message",
+      "Second message",
+      "Third message"
    ],
   "id": 3
 }
